@@ -1,3 +1,3 @@
-![alt text](./Piplined-ARM/Documentation/ARM.jpg)
+![plot](./Piplined-ARM/Documentation/ARM.jpg)
 
 
