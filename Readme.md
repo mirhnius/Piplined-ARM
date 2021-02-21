@@ -1,1 +1,1 @@
-
+ARM is a reduced instruction set computer and this project was implemented using a given list of intruction sets and a general pipeline structure. It is written in Verilog, simulated in ModelSim and programmed on the FPGA with Quartus. Debugging was done using the SignalTap tool in Quartus. Uses on-board SRAM module.
