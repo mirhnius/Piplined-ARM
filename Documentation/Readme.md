@@ -1,3 +1,3 @@
-![alt text](Piplined-ARM/Documentation/ARM.jpg)
+![alt text](./Piplined-ARM/Documentation/ARM.jpg)
 
 
